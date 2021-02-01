@@ -1,4 +1,4 @@
----
+jamar22---
 title: Add Your Hugo Theme to the Showcase
 linktitle: Themes
 description: If you've built a Hugo theme and want to contribute back to the Hugo Community, share it with us.
